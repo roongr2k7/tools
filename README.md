@@ -8,3 +8,4 @@ diagram
 webhook debug
 =======
 - https://smee.io/
+- https://webhook.site/
